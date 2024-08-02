@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A chapter of creators driving the open source movement from Abuja.
+🙋‍♀️ A chapter of creators driving the open source movement from Abuja. <br/>
 🌈 The focus is to advocate, innovate and create solutions around Open Source.
 👩‍💻 Useful resources - [Awesome Open Source](https://github.com/oscafrica/awesome-open-source)
 🍿 Fun facts - This is community driven and you need zero experience to contribute - Just be motivated.
